@@ -1,0 +1,372 @@
+[
+  {
+    "id": 1,
+    "collegeName": "Anna University - CEG",
+    "course": "Computer Science and Engineering",
+    "community": "OC",
+    "cutoff2023": 199.75,
+    "cutoff2022": 199.5,
+    "cutoff2021": 199.25,
+    "seats": 120
+  },
+  {
+    "id": 2,
+    "collegeName": "Anna University - CEG",
+    "course": "Computer Science and Engineering",
+    "community": "BC",
+    "cutoff2023": 199.25,
+    "cutoff2022": 199.0,
+    "cutoff2021": 198.75,
+    "seats": 60
+  },
+  {
+    "id": 3,
+    "collegeName": "Anna University - CEG",
+    "course": "Computer Science and Engineering",
+    "community": "MBC",
+    "cutoff2023": 198.75,
+    "cutoff2022": 198.5,
+    "cutoff2021": 198.25,
+    "seats": 30
+  },
+  {
+    "id": 4,
+    "collegeName": "Anna University - CEG",
+    "course": "Computer Science and Engineering",
+    "community": "SC",
+    "cutoff2023": 198.0,
+    "cutoff2022": 197.75,
+    "cutoff2021": 197.5,
+    "seats": 18
+  },
+  {
+    "id": 5,
+    "collegeName": "Anna University - CEG",
+    "course": "Electronics and Communicati Engineering",
+    "community": "OC",
+    "cutoff2023": 198.0,
+    "cutoff2022": 197.75,
+    "cutoff2021": 197.5,
+    "seats": 120
+  },
+  {
+    "id": 6,
+    "collegeName": "Anna University - CEG",
+    "course": "Electronics and Communicati Engineering",
+    "community": "BC",
+    "cutoff2023": 197.25,
+    "cutoff2022": 197.0,
+    "cutoff2021": 196.75,
+    "seats": 60
+  },
+  {
+    "id": 7,
+    "collegeName": "Anna University - CEG",
+    "course": "Electrical and Electronics Engineering",
+    "community": "OC",
+    "cutoff2023": 197.5,
+    "cutoff2022": 197.25,
+    "cutoff2021": 197.0,
+    "seats": 120
+  },
+  {
+    "id": 8,
+    "collegeName": "Anna University - CEG",
+    "course": "Mechanical Engineering (Tamil and English Medium)",
+    "community": "OC",
+    "cutoff2023": 196.5,
+    "cutoff2022": 196.25,
+    "cutoff2021": 196.0,
+    "seats": 120
+  },
+  {
+    "id": 9,
+    "collegeName": "Anna University - CEG",
+    "course": "Civil Engineering (Tamil and English Medium)",
+    "community": "OC",
+    "cutoff2023": 195.5,
+    "cutoff2022": 195.25,
+    "cutoff2021": 195.0,
+    "seats": 120
+  },
+  {
+    "id": 10,
+    "collegeName": "Anna University - CEG",
+    "course": "Information Technology",
+    "community": "OC",
+    "cutoff2023": 198.5,
+    "cutoff2022": 198.25,
+    "cutoff2021": 198.0,
+    "seats": 60
+  },
+  {
+    "id": 11,
+    "collegeName": "PSG College of Technology",
+    "course": "Computer Science and Engineering",
+    "community": "OC",
+    "cutoff2023": 198.5,
+    "cutoff2022": 198.25,
+    "cutoff2021": 198.0,
+    "seats": 180
+  },
+  {
+    "id": 12,
+    "collegeName": "PSG College of Technology",
+    "course": "Computer Science and Engineering",
+    "community": "BC",
+    "cutoff2023": 197.75,
+    "cutoff2022": 197.5,
+    "cutoff2021": 197.25,
+    "seats": 90
+  },
+  {
+    "id": 13,
+    "collegeName": "PSG College of Technology",
+    "course": "Computer Science and Engineering (AI and ML)",
+    "community": "OC",
+    "cutoff2023": 198.0,
+    "cutoff2022": 197.75,
+    "cutoff2021": 197.5,
+    "seats": 60
+  },
+  {
+    "id": 14,
+    "collegeName": "PSG College of Technology",
+    "course": "Electronics and Communication Engineering",
+    "community": "OC",
+    "cutoff2023": 196.75,
+    "cutoff2022": 196.5,
+    "cutoff2021": 196.25,
+    "seats": 120
+  },
+  {
+    "id": 15,
+    "collegeName": "PSG College of Technology",
+    "course": "Electrical and Electronics Engineering",
+    "community": "OC",
+    "cutoff2023": 196.0,
+    "cutoff2022": 195.75,
+    "cutoff2021": 195.5,
+    "seats": 120
+  },
+  {
+    "id": 16,
+    "collegeName": "PSG College of Technology",
+    "course": "Mechanical Engineering",
+    "community": "OC",
+    "cutoff2023": 195.5,
+    "cutoff2022": 195.25,
+    "cutoff2021": 195.0,
+    "seats": 120
+  },
+  {
+    "id": 17,
+    "collegeName": "PSG College of Technology",
+    "course": "Information Technology",
+    "community": "OC",
+    "cutoff2023": 197.0,
+    "cutoff2022": 196.75,
+    "cutoff2021": 196.5,
+    "seats": 60
+  },
+  {
+    "id": 18,
+    "collegeName": "Thiagarajar College of Engineering",
+    "course": "Computer Science Engineering",
+    "community": "OC",
+    "cutoff2023": 195.5,
+    "cutoff2022": 195.25,
+    "cutoff2021": 195.0,
+    "seats": 120
+  },
+  {
+    "id": 19,
+    "collegeName": "Thiagarajar College of Engineering",
+    "course": "Computer Science Engineering",
+    "community": "BC",
+    "cutoff2023": 194.75,
+    "cutoff2022": 194.5,
+    "cutoff2021": 194.25,
+    "seats": 60
+  },
+  {
+    "id": 20,
+    "collegeName": "Thiagarajar College of Engineering",
+    "course": "Electronics and Communication Engineering",
+    "community": "OC",
+    "cutoff2023": 194.5,
+    "cutoff2022": 194.25,
+    "cutoff2021": 194.0,
+    "seats": 120
+  },
+  {
+    "id": 21,
+    "collegeName": "Thiagarajar College of Engineering",
+    "course": "Computer Science and Engineering (AI and ML)",
+    "community": "OC",
+    "cutoff2023": 195.0,
+    "cutoff2022": 194.75,
+    "cutoff2021": 194.5,
+    "seats": 60
+  },
+  {
+    "id": 22,
+    "collegeName": "Government College of Technology",
+    "course": "Computer Science Engineering",
+    "community": "OC",
+    "cutoff2023": 196.5,
+    "cutoff2022": 196.25,
+    "cutoff2021": 196.0,
+    "seats": 60
+  },
+  {
+    "id": 23,
+    "collegeName": "Government College of Technology",
+    "course": "Computer Science Engineering",
+    "community": "BC",
+    "cutoff2023": 195.75,
+    "cutoff2022": 195.5,
+    "cutoff2021": 195.25,
+    "seats": 30
+  },
+  {
+    "id": 24,
+    "collegeName": "Government College of Technology",
+    "course": "Electronics and Communication Engineering",
+    "community": "OC",
+    "cutoff2023": 195.0,
+    "cutoff2022": 194.75,
+    "cutoff2021": 194.5,
+    "seats": 60
+  },
+  {
+    "id": 25,
+    "collegeName": "Government College of Technology",
+    "course": "Computer Science and Engineering (AI and ML)",
+    "community": "OC",
+    "cutoff2023": 195.5,
+    "cutoff2022": 195.25,
+    "cutoff2021": 195.0,
+    "seats": 30
+  },
+  {
+    "id": 26,
+    "collegeName": "MIT Campus - Anna University",
+    "course": "Computer Technology",
+    "community": "OC",
+    "cutoff2023": 194.25,
+    "cutoff2022": 194.0,
+    "cutoff2021": 193.75,
+    "seats": 60
+  },
+  {
+    "id": 27,
+    "collegeName": "MIT Campus - Anna University",
+    "course": "Information Technology",
+    "community": "OC",
+    "cutoff2023": 193.5,
+    "cutoff2022": 193.25,
+    "cutoff2021": 193.0,
+    "seats": 60
+  },
+  {
+    "id": 28,
+    "collegeName": "SSN College of Engineering",
+    "course": "Computer Science Engineering",
+    "community": "OC",
+    "cutoff2023": 193.5,
+    "cutoff2022": 193.25,
+    "cutoff2021": 193.0,
+    "seats": 180
+  },
+  {
+    "id": 29,
+    "collegeName": "SSN College of Engineering",
+    "course": "Information Technology",
+    "community": "OC",
+    "cutoff2023": 192.5,
+    "cutoff2022": 192.25,
+    "cutoff2021": 192.0,
+    "seats": 120
+  },
+  {
+    "id": 30,
+    "collegeName": "SSN College of Engineering",
+    "course": "Electronics and Communication Engineering",
+    "community": "OC",
+    "cutoff2023": 192.0,
+    "cutoff2022": 191.75,
+    "cutoff2021": 191.5,
+    "seats": 120
+  },
+  {
+    "id": 31,
+    "collegeName": "Kumaraguru College of Technology",
+    "course": "Computer Science Engineering",
+    "community": "OC",
+    "cutoff2023": 192.0,
+    "cutoff2022": 191.75,
+    "cutoff2021": 191.5,
+    "seats": 120
+  },
+  {
+    "id": 32,
+    "collegeName": "Kumaraguru College of Technology",
+    "course": "Information Technology",
+    "community": "OC",
+    "cutoff2023": 191.0,
+    "cutoff2022": 190.75,
+    "cutoff2021": 190.5,
+    "seats": 60
+  },
+  {
+    "id": 33,
+    "collegeName": "ACT campus",
+    "course": "Chemical Engineering",
+    "community": "OC",
+    "cutoff2023": 190.5,
+    "cutoff2022": 190.25,
+    "cutoff2021": 190.0,
+    "seats": 60
+  },
+  {
+    "id": 34,
+    "collegeName": "ACT campus",
+    "course": "Petroleum Engineering and Technology",
+    "community": "OC",
+    "cutoff2023": 189.5,
+    "cutoff2022": 189.25,
+    "cutoff2021": 189.0,
+    "seats": 30
+  },
+  {
+    "id": 35,
+    "collegeName": "Coimbatore Institute of Technology",
+    "course": "Computer Science Engineering",
+    "community": "OC",
+    "cutoff2023": 191.5,
+    "cutoff2022": 191.25,
+    "cutoff2021": 191.0,
+    "seats": 120
+  },
+  {
+    "id": 36,
+    "collegeName": "Coimbatore Institute of Technology",
+    "course": "Information Technology",
+    "community": "OC",
+    "cutoff2023": 190.5,
+    "cutoff2022": 190.25,
+    "cutoff2021": 190.0,
+    "seats": 60
+  },
+  {
+    "id": 37,
+    "collegeName": "Coimbatore Institute of Technology",
+    "course": "Artificial Intelligence and Data Science",
+    "community": "OC",
+    "cutoff2023": 191.0,
+    "cutoff2022": 190.75,
+    "cutoff2021": 190.5,
+    "seats": 60
+  }
+]
