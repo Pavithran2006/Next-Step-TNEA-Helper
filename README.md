@@ -1,4 +1,4 @@
-# NextStep - Your Engineering Admission Guide
+# NextStep - Your TNEA Engineering Admission Guide
 
 A comprehensive Next.js 14 application for Tamil Nadu Engineering Admissions (TNEA) counselling guidance and tools. Navigate your engineering journey with confidence.
 
