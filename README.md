@@ -33,7 +33,7 @@ A comprehensive Next.js 14 application for Tamil Nadu Engineering Admissions (TN
 ## Technology Stack
 
 - **Framework**: Next.js 14 with App Router
-- **Styling**: Tailwind CSS
+- **Styling**: bootstrap CSS
 - **Charts**: Chart.js with react-chartjs-2
 - **Drag & Drop**: react-beautiful-dnd
 - **PDF Export**: jsPDF
@@ -135,7 +135,7 @@ To add more colleges or cutoff data:
 ## Features in Detail
 
 ### Responsive Design
-- Mobile-first approach with Tailwind CSS
+- Mobile-first approach with bootstrap CSS
 - Adaptive layouts for desktop, tablet, and mobile
 - Touch-friendly interface for mobile devices
 
